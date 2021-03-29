@@ -2,7 +2,7 @@
 <br>
 For this project, I created visualizations on Tableau to help city officials evalute the New York CitiBike program. Three main ideas were explored: the impact of the COVID-19 epidemic on CitiBike usage, top station locations, and peak hours of use. <br>
 
-## The following key insights were revelealed:<br>
+## The following key insights were revealed:<br>
 ### In March 2020, states across the US including NY went into quarantine and many businesses had to close their doors to customers. How did CitiBike fare in the wake of the pandemic?<br>
 The number of rides taken on CitiBikes was most impacted in April 2020-right after NY went into a state of emergency. After the inital impact, the number of rides resumed as normal in August 2020 and was higher than 2019 in December when comparing the years across the same dates. Average trip durations in the selected months were higher overall in 2020 than in 2019.<br>
 <br>
