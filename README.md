@@ -15,9 +15,7 @@ Many of the top start locations are the same as the top end locations, proving t
 Top 3 Locations Overall: <br>
 
 1. Pershing Square North<br>
-<br>
 2. 12 Ave & W 40 St<br>
-<br>
 3. West St & Chambers St<br>
 <br>
 
